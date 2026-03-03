@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalex37220&label=Profile%20views&color=0e75b6&style=flat" alt="michalex37220" /> </p>
 
-- 🔭 I’m currently working on [meio](https://github.com/nodeSoftwares/Meio)
+- 🔭 I’m currently working on SalvageEngine
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **michalex37@proton.me**
 
