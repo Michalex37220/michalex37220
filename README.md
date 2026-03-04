@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Salvagegraphics<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I try to build some project to help beginner linux users</p>
+<p align="left">I'm Alexis Marechal from Tours<br><br>- 🔭 I’m working as Salvagegraphics<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I try to build some project to help beginner linux users</p>
 
 ###
 
