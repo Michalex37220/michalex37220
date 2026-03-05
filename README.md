@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Alexis Marechak-brix from Tours France<br><br>- 🔭 I’m working as Salvagegraphics<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I try to build some project to help beginner linux users</p>
+<p align="left"><br><br>- 🔭 I’m working on Clash Loyale<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I try to build some project to help beginner linux users</p>
 
 ###
 
